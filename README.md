@@ -1,3 +1,8 @@
+Version
+-
+Java: version 18
+NPM: 9.5.1
+
 Running of Back-End
 -
 1. Change the directory to backend
